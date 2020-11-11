@@ -1,0 +1,2 @@
+# senhas
+Gera senhas aleatórias
